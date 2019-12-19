@@ -1,0 +1,22 @@
+{
+  "name": "appscript-html-starter",
+  "version": "1.0.0",
+  "description": "Create and Host an website with Apps Script",
+  "main": "Code.gs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaddPortwine/AppsScript-HTML-Starter.git"
+  },
+  "author": "Chadd Portwine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChaddPortwine/AppsScript-HTML-Starter/issues"
+  },
+  "homepage": "https://github.com/ChaddPortwine/AppsScript-HTML-Starter#readme",
+  "devDependencies": {
+    "clasp": "^1.0.0"
+  }
+}
